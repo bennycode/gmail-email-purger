@@ -19,6 +19,7 @@ This Python script connects to your Gmail account via IMAP and:
 
 1. Click the "Open in GitHub Codespaces" button above
 2. Wait for the environment to load (dependencies install automatically)
+3. Run the script: `python main.py`
 
 ### Option 2: Local Setup
 

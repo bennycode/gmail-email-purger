@@ -5,7 +5,7 @@
 
 ## What This Script Does
 
-This Python script connects to your Gmail account via IMAP and:
+This Python script connects to your Google Mail account via IMAP and:
 
 - **Deletes ALL emails** from every folder in your Gmail account
 - **Deletes ALL folders** (except system folders that can't be deleted)
@@ -19,7 +19,7 @@ This Python script connects to your Gmail account via IMAP and:
    - Generate a new App Password for "Mail"
    - Use this password in the script
 
-2. **IMAP Access**: Ensure IMAP is available in your Gmail settings
+2. **IMAP Access**: Ensure IMAP is available in your Google Mail settings
    - Go to Gmail Settings → [Forwarding and POP/IMAP](https://mail.google.com/mail/u/0/#settings/fwdandpop)
    - Contact your workspace administrator if IMAP is not enabled (see [Turn POP & IMAP on or off for users](https://support.google.com/a/answer/105694?hl=en&sjid=12332642361958922417-EU))
 
